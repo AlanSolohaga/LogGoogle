@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "353797388297",
+    "firebase_url": "https://appencuesta-2acb8.firebaseio.com",
+    "project_id": "appencuesta-2acb8",
+    "storage_bucket": "appencuesta-2acb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353797388297:android:509d4d92e461a8f88da0d8",
+        "android_client_info": {
+          "package_name": "com.project.loggoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353797388297-9aq024l9f7m405k64ab7emiv3ljk8d2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.loggoogle",
+            "certificate_hash": "932778480f72911262b7dacfb924f5a59c628832"
+          }
+        },
+        {
+          "client_id": "353797388297-n3fsaend37dao8s0jncb0nk8gv886g6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZ76ESSxrIWfeoTIQHE_uOpZRkyILAns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353797388297-n3fsaend37dao8s0jncb0nk8gv886g6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
